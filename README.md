@@ -1,2 +1,2 @@
-# wpu-resolusi
+# siberkolosis-resolusi
 Repository untuk menyimpan rencana SIBERKOLOSIS kedepannya.
